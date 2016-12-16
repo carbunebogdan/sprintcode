@@ -1,2 +1,0 @@
-# sprintcode
-the beginning
